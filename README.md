@@ -1,7 +1,7 @@
 # Yumi
 
 ## About me
-Hi, I'm Yumi.
+Hi, I'm Yumi!
 
 I am confident with Rust, TypeScript, JavaScript, React, Astro, Swift, HTML/CSS, Git, SQL, Java, and Python.
 
@@ -13,8 +13,3 @@ I am confident with Rust, TypeScript, JavaScript, React, Astro, Swift, HTML/CSS,
 My website: [yumiizumi.com](https://yumiizumi.com)
 
 My contact details: [yumi.to/card](https://yumi.to/card)
-
-## Stats
-![izyuumi's Stats](https://github-readme-stats.vercel.app/api?username=izyuumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![izyuumi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izyuumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
